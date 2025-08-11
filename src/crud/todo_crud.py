@@ -1,4 +1,3 @@
-# src/crud/todo_crud.py
 from uuid import UUID
 from datetime import datetime, timezone
 from sqlalchemy import select
